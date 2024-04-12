@@ -1,5 +1,5 @@
 # 📦 Bellande Motion Probabilistic
-## Multi-Dimensional/Infinity-Dimensional Search Path
+## Multi-Dimensional/Infinity-Dimensional Motion Probabilistic
 
 # Check Out Research Organization for open-source/semi-open-source API
 - https://robotics-sensors.github.io
