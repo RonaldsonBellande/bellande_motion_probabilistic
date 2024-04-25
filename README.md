@@ -1,5 +1,6 @@
 # 📦 Bellande Motion Probabilistic
 ## Multi-Dimensional/Infinity-Dimensional Motion Probabilistic
+## BMP(Bellande Motion Probabilistic) Algorithm API
 
 # Check Out Research Organization for open-source/semi-open-source API
 - https://robotics-sensors.github.io
@@ -25,3 +26,6 @@
 - Infinity-Dimention Space
 
 # Can also checkout portion of the docs at [Portion API DOCS](https://github.com/Robotics-Sensors/bellande_motion_probabilistic/blob/main/api_docs.md)
+
+## License
+This Algorithm or Models is distributed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/), see [LICENSE](https://github.com/RonaldsonBellande/bellande_motion_probabilistic/blob/main/LICENSE) and [NOTICE](https://github.com/RonaldsonBellande/bellande_motion_probabilistic/blob/main/LICENSE) for more information.
