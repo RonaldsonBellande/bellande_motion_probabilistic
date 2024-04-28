@@ -2,7 +2,7 @@
 ## Multi-Dimensional/Infinity-Dimensional Motion Probabilistic
 ## BMP(Bellande Motion Probabilistic) Algorithm API
 
-## Benifits of using Bellande 2D Computer Vision API
+## Benifits of using Bellande Motion Probabilistic API
 - Can be used in any Programming Languages
 - Can be used in any Operating Systems
 - Can be used with any Technologies
