@@ -2,6 +2,16 @@
 ## Multi-Dimensional/Infinity-Dimensional Motion Probabilistic
 ## BMP(Bellande Motion Probabilistic) Algorithm API
 
+## Benifits of using Bellande 2D Computer Vision API
+- Can be used in any Programming Languages
+- Can be used in any Operating Systems
+- Can be used with any Technologies
+
+### API Functionality
+
+**User Motion Probabilistic**
+- **endpoint_path**: /api/Bellande_Motion_Probabilistic/bellande_motion_probabilistic_precision_1
+
 # Check Out Research Organization for open-source/semi-open-source API
 - https://robotics-sensors.github.io
 - Check out website for more information avaliable open-source API 
