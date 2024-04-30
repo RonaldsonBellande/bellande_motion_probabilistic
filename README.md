@@ -9,7 +9,7 @@
 
 ### API Functionality
 
-**User Motion Probabilistic**
+**Use Bellande Motion Probabilistic**
 - **endpoint_path**: /api/Bellande_Motion_Probabilistic/bellande_motion_probabilistic_precision_1
 
 # Check Out Research Organization for open-source/semi-open-source API
